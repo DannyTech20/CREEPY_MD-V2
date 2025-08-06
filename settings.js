@@ -15,18 +15,18 @@ require('dotenv').config()
 
 //------- [put your credintials below]------\\
 
-global.SESSION_ID = process.env.SESSION_ID || "CREEPY-X0InTBhT#zmedAqZdLqJQJMlsUKR-Veyg1dnGuN_-vJsd6vpGXRM-Danny"  //(required)\\  //===[session id]===\\
+global.SESSION_ID = process.env.SESSION_ID || "CREEPY-DloRTJxC#-gFEgnYyzd7v3TR1M-iCiFwFvf4XpSqzIDbpMda1Hyw-Danny"  //(required)\\  //===[session id]===\\
 
 
 global.ownernomer = process.env.OWNER_NUMBER || "255697608274" //===[owner number]===\\
 
 
 
-global.ownername = process.env.OWNER_NAME || "𝐷𝛥𝛮𝛮𝑌"  //==[optional]==\\
+global.ownername = process.env.OWNER_NAME || "JORDI"  //==[optional]==\\
 
 
 
-global.ownernumber = process.env.OWNER_NUMBER2 || '255697608274'  
+global.ownernumber = process.env.OWNER_NUMBER2 || '256753852529'  
 
 
 global.prefix = process.env.PREFIX || [',']     //==[prefix]==\\
